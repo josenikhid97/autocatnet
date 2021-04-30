@@ -1,4 +1,4 @@
-# Software for inferring autocatalytic networks as envisioned by Stuart Kaufmann. 
+# Software for modeling the structure and evolution of autocatalytic networks 
 
 Some of the algorithms that we have implemented are defined in Hordijk and Steel. 
 
